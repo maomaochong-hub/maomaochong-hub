@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009999,1:006666&height=180&section=header&text=%E4%BA%BA%E7%9A%86%E7%9F%A5%E6%9C%89%E7%94%A8%E4%B9%8B%E7%94%A8%2C%20%E8%80%8C%E8%8E%AB%E7%9F%A5%E6%97%A0%E7%94%A8%E4%B9%8B%E7%94%A8%E4%B9%9F&fontSize=20&fontAlignY=35&animation=fadeIn" alt="wave banner" />
+
 <style>
 .hover-blue-glow {
   display: inline-block;
